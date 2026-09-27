@@ -5,7 +5,3 @@ Esta es mi cuenta personal en GitHub, sin ningún fin profesional. La uso como e
 ## 📁 Qué vas a encontrar aquí
 
 - **[mi-blog](https://github.com/Hackeretico1977/mi-blog)** — Infraestructura de recursos externos (audios, PDFs y otros archivos) para mi blog personal [El Rincón de Carlos](https://elrincondecarlos1977.blogspot.com/). Blogger no permite alojar este tipo de archivos directamente en las entradas, así que los guardo aquí y los enlazo desde el blog.
-
-## Sobre esta cuenta
-
-No es mi cuenta de trabajo ni de ciberseguridad — eso lo llevo aparte, en otra cuenta. Aquí solo hay cosas personales: recursos del blog y lo que vaya necesitando por el camino.
